@@ -1,0 +1,20 @@
+[
+  {
+    "id": "msg_1788507599024_8ev5t",
+    "name": "hey",
+    "email": "abc@gmail.com",
+    "subject": "hello",
+    "message": "helllllllllllllllloooooooooooooo",
+    "timestamp": "2026-09-04T07:39:59.024Z",
+    "ipAddress": "::1"
+  },
+  {
+    "id": "msg_1788460779705_hvulw",
+    "name": "Manish Patil",
+    "email": "mp8449729@gmail.com",
+    "subject": "Full-Stack Project Inquiry",
+    "message": "Hello Manish, I am reviewing the submitted messages API.",
+    "timestamp": "2026-09-03T18:39:39.705Z",
+    "ipAddress": "::1"
+  }
+]
