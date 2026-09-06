@@ -7,7 +7,7 @@
     "dev": "node scripts/dev.js",
     "client": "vite",
     "server": "npx tsx server/index.ts",
-    "build": ".\\node_modules\\.bin\\tsc && npx vite build",
+    "build": "tsc && vite build",
     "lint": "tsc --noEmit",
     "preview": "vite preview"
   },
